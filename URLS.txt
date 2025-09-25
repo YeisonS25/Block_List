@@ -167,3 +167,4 @@
 @@||algoreducation.com^
 @@||chatpdf.com^
 @@||ideogram.ai^
+@@||powerbi.com^
