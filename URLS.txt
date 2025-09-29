@@ -33,8 +33,6 @@
 ||epicgames.com^
 ||eporner.com^
 ||espn.com^
-||facebook.com^
-||fbcdn.net^
 ||fog.com^
 ||fortnite.com^
 ||freeonlinegames.com^
@@ -154,7 +152,6 @@
 ||x.com^
 ||xnxx.com^
 ||y8.com^
-||youtube.com^
 ||youjizz.com^
 ||youporn.com^
 ||zonamovil.net^
@@ -169,5 +166,8 @@
 @@||ideogram.ai^
 @@||powerbi.com^
 @@||elllo.org^
+@@||subatours.kontroltravel.com^
 @@||acortar.link^
 @@||suramericana.com^
+@@||canva.com^
+
