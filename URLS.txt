@@ -166,8 +166,9 @@
 @@||ideogram.ai^
 @@||powerbi.com^
 @@||elllo.org^
-@@||subatours.kontroltravel.com^
+@@||kontroltravel.com^
 @@||acortar.link^
 @@||suramericana.com^
 @@||canva.com^
+
 
