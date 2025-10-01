@@ -166,6 +166,10 @@
 ||wustat.windows.com^
 ||stats.microsoft.com^
 ||ntservicepack.microsoft.com^
+||dpwdpqshxux.ru^
+||tracker.calculate.ru^
+||retracker.krs-ix.ru^
+||bundle.run^
 
 #=======================
 #URL-PERMITIDOS
@@ -183,5 +187,6 @@
 @@||powerapps.com^
 @@||sura.co^
 @@||onbase.sena.edu.co^
+
 
 
