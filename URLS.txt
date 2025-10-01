@@ -150,6 +150,15 @@
 ||youporn.com^
 ||zonamovil.net^
 ||zylom.com^
+||mega.io^
+||clarodrive.com^
+||box.com^
+||idrive.com^
+||pcloud.com^
+||windowsupdate.microsoft.com^
+||download.windowsupdate.com^
+||download.microsoft.com^
+||update.microsoft.com^
 
 #=======================
 #URL-PERMITIDOS
@@ -167,3 +176,4 @@
 @@||powerapps.com^
 @@||sura.co^
 @@||onbase.sena.edu.co^
+
