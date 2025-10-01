@@ -187,6 +187,6 @@
 @@||powerapps.com^
 @@||sura.co^
 @@||onbase.sena.edu.co^
-
-
-
+@@||github.com^
+@@||claude.ai/new^
+@@||chat.deepseek.com^
