@@ -156,9 +156,16 @@
 ||idrive.com^
 ||pcloud.com^
 ||windowsupdate.microsoft.com^
+||windowsupdate.com^
 ||download.windowsupdate.com^
 ||download.microsoft.com^
 ||update.microsoft.com^
+||xboxlive.com^
+||xboxservices.com^
+||xbox.com^
+||wustat.windows.com^
+||stats.microsoft.com^
+||ntservicepack.microsoft.com^
 
 #=======================
 #URL-PERMITIDOS
@@ -176,4 +183,5 @@
 @@||powerapps.com^
 @@||sura.co^
 @@||onbase.sena.edu.co^
+
 
