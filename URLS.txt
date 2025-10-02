@@ -191,4 +191,6 @@
 @@||claude.ai/new^
 @@||chat.deepseek.com^
 @@||sena.red.com^
+@@||centro-virtual.com^
+
 
