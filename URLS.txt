@@ -58,7 +58,6 @@
 ||hole.io^
 ||hotstar.com^
 ||html5games.com^
-||instagram^
 
 ||juegosfriv.com^
 ||kizi.com^
@@ -192,6 +191,7 @@
 @@||chat.deepseek.com^
 @@||sena.red.com^
 @@||centro-virtual.com^
+
 
 
 
