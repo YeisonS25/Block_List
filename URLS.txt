@@ -59,7 +59,7 @@
 ||hotstar.com^
 ||html5games.com^
 ||instagram^
-||instagram.com^
+
 ||juegosfriv.com^
 ||kizi.com^
 ||kongregate.com^
@@ -192,5 +192,6 @@
 @@||chat.deepseek.com^
 @@||sena.red.com^
 @@||centro-virtual.com^
+
 
 
