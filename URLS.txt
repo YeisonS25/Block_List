@@ -17,7 +17,7 @@
 ||caracoltv.com^
 ||cartoonnetwork.com^
 ||cdn.discordapp.com^
-||cdninstagram.com^
+
 ||coolmath4kids.com^
 ||coolmathgames.com^
 ||crazygames.com^
@@ -191,6 +191,7 @@
 @@||chat.deepseek.com^
 @@||sena.red.com^
 @@||centro-virtual.com^
+
 
 
 
