@@ -158,7 +158,7 @@
 ||discord.com^
 ||messenger.com^
 ||pbs.twimg.com^
-||scontent.xx.fbcdn.net^
+
 
 # 🔞 Pornografía
 
@@ -222,6 +222,7 @@
 ||tracker.calculate.ru^
 ||zonamovil.net^
 ||zylom.com^
+
 
 
 
