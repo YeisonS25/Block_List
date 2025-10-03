@@ -154,7 +154,7 @@
 
 # 💬 Redes Sociales
 ||cdn.discordapp.com^
-||cdninstagram.com^
+
 ||discord.com^
 ||messenger.com^
 ||pbs.twimg.com^
@@ -222,6 +222,7 @@
 ||tracker.calculate.ru^
 ||zonamovil.net^
 ||zylom.com^
+
 
 
 
