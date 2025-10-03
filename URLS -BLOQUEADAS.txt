@@ -168,4 +168,9 @@
 ||dpwdpqshxux.ru^
 ||tracker.calculate.ru^
 ||retracker.krs-ix.ru^
-||bundle.run^
+||storeedgefd.dsx.mp.microsoft.com^
+||storecatalogrevocation.storequality.microsoft.com^
+||displaycatalog.mp.microsoft.com^
+||purchase.mp.microsoft.com^
+||licensing.mp.microsoft.com^
+||tlu.dl.delivery.mp.microsoft.com^
