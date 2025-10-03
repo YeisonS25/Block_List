@@ -1,5 +1,5 @@
 #=======================
-#URL-BLOQUEADOS
+#URLS-BLOQUEADAS
 #=======================
 
 ||1v1.lol^
@@ -17,7 +17,6 @@
 ||caracoltv.com^
 ||cartoonnetwork.com^
 ||cdn.discordapp.com^
-
 ||coolmath4kids.com^
 ||coolmathgames.com^
 ||crazygames.com^
@@ -170,32 +169,3 @@
 ||tracker.calculate.ru^
 ||retracker.krs-ix.ru^
 ||bundle.run^
-
-#=======================
-#URL-PERMITIDOS
-#=======================
-
-@@||algoreducation.com^
-@@||chatpdf.com^
-@@||ideogram.ai^
-@@||powerbi.com^
-@@||elllo.org^
-@@||kontroltravel.com^
-@@||acortar.link^
-@@||suramericana.com^
-@@||canva.com^
-@@||powerapps.com^
-@@||sura.co^
-@@||onbase.sena.edu.co^
-@@||github.com^
-@@||claude.ai/new^
-@@||chat.deepseek.com^
-@@||sena.red.com^
-@@||centro-virtual.com^
-
-
-
-
-
-
-
