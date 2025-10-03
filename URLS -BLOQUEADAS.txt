@@ -186,8 +186,8 @@
 ||displaycatalog.mp.microsoft.com^
 ||dl.delivery.mp.microsoft.com^
 ||emdl.ws.microsoft.com^
-||licensing.mp.microsoft.com^
-||ntservicepack.microsoft.com^
+#||licensing.mp.microsoft.com^
+#||ntservicepack.microsoft.com^
 ||purchase.mp.microsoft.com^
 ||storeedgefd.dsx.mp.microsoft.com^
 ||storecatalogrevocation.storequality.microsoft.com^
@@ -222,5 +222,6 @@
 ||tracker.calculate.ru^
 ||zonamovil.net^
 ||zylom.com^
+
 
 
