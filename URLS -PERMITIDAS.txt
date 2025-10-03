@@ -3,4 +3,13 @@
 #=======================
 
 #@@||canva.com^
-@@||sura.com^
+#@@||sura.com^
+#@@||moodiycloud.com^
+#@@||chat.deepseek.com^
+#@@||claude.ai/new^
+#@@||github.com^
+#@@||www.canva.com^
+#@@||www.elllo.org^
+#@@||www.algoreducation.com/en^
+#@@||ideogram.ai^
+#@@||www.chatpdf.com/es^
