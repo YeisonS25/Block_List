@@ -154,7 +154,6 @@
 ||cdn.discordapp.com^
 ||cdninstagram.com^
 ||discord.com^
-#||fbcdn.net^
 ||messenger.com^
 ||pbs.twimg.com^
 ||scontent.xx.fbcdn.net^
@@ -221,3 +220,4 @@
 ||tracker.calculate.ru^
 ||zonamovil.net^
 ||zylom.com^
+
