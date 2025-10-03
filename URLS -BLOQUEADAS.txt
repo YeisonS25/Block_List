@@ -3,6 +3,7 @@
 #=======================
 
 # 🎮 Juegos
+
 ||1v1.lol^
 ||agar.io^
 ||agame.com^
@@ -88,13 +89,13 @@
 ||valorant.gg^
 
 # 📺 Streaming / TV / Video
+
 ||canalrcn.com^
 ||caracoltv.com^
 ||cartoonnetwork.com^
 ||dailymotion.com^
 ||dailymotioncdn.com^
 ||disneyplus.com^
-||googlevideo.com^
 ||hbomax.com^
 ||hbomaxcdn.com^
 ||hotstar.com^
@@ -111,11 +112,10 @@
 ||tv.apple.com^
 ||twitch.tv^
 ||vimeo.com^
-#||youtube.com^
-#||youtu.be^
-#||ytimg.com^
+||ytimg.com^
 
 # ⚽ Deportes / Fútbol
+
 ||batmanstream.watch^
 ||elitegol.co^
 ||elitegol.watch^
@@ -154,24 +154,13 @@
 ||cdn.discordapp.com^
 ||cdninstagram.com^
 ||discord.com^
-#||facebook.com^
 #||fbcdn.net^
-||instagram^
-#||linkedin.com^
 ||messenger.com^
 ||pbs.twimg.com^
-#||pinterest.com^
-#||reddit.com^
 ||scontent.xx.fbcdn.net^
-||snapchat.com^
-#||telegram.org^
-#||t.me^
-#||tiktok.com^
-#||tiktokcdn.com^
-#||whatsapp.com^
-#||web.whatsapp.com^
 
 # 🔞 Pornografía
+
 ||cam4.com^
 ||chaturbate.com^
 ||eporner.com^
@@ -190,16 +179,15 @@
 ||youporn.com^
 
 # 🪟 Windows / Microsoft / Xbox
+
 ||assets1.xboxlive.com^
 ||assets2.xboxlive.com^
 ||displaycatalog.mp.microsoft.com^
 ||dl.delivery.mp.microsoft.com^
 ||emdl.ws.microsoft.com^
 ||licensing.mp.microsoft.com^
-||microsoft.com^
 ||ntservicepack.microsoft.com^
 ||purchase.mp.microsoft.com^
-||stats.microsoft.com^
 ||storeedgefd.dsx.mp.microsoft.com^
 ||storecatalogrevocation.storequality.microsoft.com^
 ||update.microsoft.com^
@@ -211,6 +199,7 @@
 ||xboxservices.com^
 
 # ☁️ Almacenamiento / Nube
+
 ||apkcombo.com^
 ||box.com^
 ||clarodrive.com^
@@ -223,11 +212,7 @@
 ||pcloud.com^
 
 # 🛒 Compras / E-commerce
-#||amazon.com^
-#||aliexpress.com^
-#||ebay.com^
-#||mercadolibre.com^
-#||shein.com^
+
 
 # 🌐 Otros / Varios
 ||camel1.live^
