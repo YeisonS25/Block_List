@@ -14,6 +14,7 @@
 ||bgames.com^
 ||blizzard.com^
 ||blzstatic.com^
+||cartoonnetwork.com/games^
 ||coolmath4kids.com^
 ||coolmathgames.com^
 ||crazygames.com^
@@ -30,6 +31,7 @@
 ||frivplus.com^
 ||gameflare.com^
 ||gameforge.com^
+||gamesgames.com^
 ||gaming.amazon.com^
 ||garena.com^
 ||girlsgogames.com^
@@ -220,4 +222,5 @@
 ||tracker.calculate.ru^
 ||zonamovil.net^
 ||zylom.com^
+
 
