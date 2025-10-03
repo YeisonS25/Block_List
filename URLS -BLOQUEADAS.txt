@@ -173,4 +173,7 @@
 ||displaycatalog.mp.microsoft.com^
 ||purchase.mp.microsoft.com^
 ||licensing.mp.microsoft.com^
-||tlu.dl.delivery.mp.microsoft.com^
+||dl.delivery.mp.microsoft.com^
+||emdl.ws.microsoft.com^
+||assets1.xboxlive.com^
+||assets2.xboxlive.com^
