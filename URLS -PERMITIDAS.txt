@@ -6,13 +6,14 @@
 @@||sura.com^
 @@||moodiycloud.com^
 @@||chat.deepseek.com^
-@@||claude.ai/new^
+@@||claude.ai^
 @@||github.com^
-@@||www.canva.com^
-@@||www.elllo.org^
-@@||www.algoreducation.com/en^
+@@||canva.com^
+@@||elllo.org^
+@@||algoreducation.com^
 @@||ideogram.ai^
-@@||www.chatpdf.com/es^
+@@||chatpdf.com^
 @@||claro.com.co^
+
 
 
