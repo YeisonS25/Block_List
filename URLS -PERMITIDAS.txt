@@ -14,8 +14,11 @@
 @@||ideogram.ai^
 @@||chatpdf.com^
 @@||claro.com.co^
-@@||naas.huaweicloud.com^
 @@||fifa.com^
+@@||naas.huawei.com^
+@@||naas.huaweicloud.com^
+@@||huaweicloud.com^
+@@||huawei.com^
 
 
 
