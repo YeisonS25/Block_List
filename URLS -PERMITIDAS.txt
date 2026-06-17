@@ -2,7 +2,7 @@
 #URLS-PERMITIDAS (Para Anular o Permitir Alguna Regla, Quitar El # Que Esta Al Principio De La Linea)
 #=======================
 
-@@||canva.com^
+
 @@||sura.com^
 @@||moodiycloud.com^
 @@||chat.deepseek.com^
