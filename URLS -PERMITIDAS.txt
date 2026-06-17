@@ -8,7 +8,7 @@
 @@||chat.deepseek.com^
 @@||claude.ai^
 @@||github.com^
-@@||canva.com^
+
 @@||elllo.org^
 @@||algoreducation.com^
 @@||ideogram.ai^
