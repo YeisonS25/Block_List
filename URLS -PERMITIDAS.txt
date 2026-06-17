@@ -19,6 +19,7 @@
 @@||naas.huaweicloud.com^
 @@||huaweicloud.com^
 @@||huawei.com^
+@@||chatgpt.com^
 
 
 
