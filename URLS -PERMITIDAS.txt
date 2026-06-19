@@ -19,9 +19,6 @@
 @@||naas.huaweicloud.com^
 @@||huaweicloud.com^
 @@||huawei.com^
-@@||rues.org.co^
-
-
 
 
 
