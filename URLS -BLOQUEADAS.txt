@@ -184,7 +184,7 @@
 ||assets1.xboxlive.com^
 ||assets2.xboxlive.com^
 ||displaycatalog.mp.microsoft.com^
-||dl.delivery.mp.microsoft.com^
+#||dl.delivery.mp.microsoft.com^
 ||emdl.ws.microsoft.com^
 #||licensing.mp.microsoft.com^
 #||ntservicepack.microsoft.com^
