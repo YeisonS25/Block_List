@@ -181,23 +181,23 @@
 
 # 🪟 Windows / Microsoft / Xbox
 
-#||assets1.xboxlive.com^
-#||assets2.xboxlive.com^
-#||displaycatalog.mp.microsoft.com^
+||assets1.xboxlive.com^
+||assets2.xboxlive.com^
+||displaycatalog.mp.microsoft.com^
 #||dl.delivery.mp.microsoft.com^
-#||emdl.ws.microsoft.com^
+||emdl.ws.microsoft.com^
 #||licensing.mp.microsoft.com^
 #||ntservicepack.microsoft.com^
 #||purchase.mp.microsoft.com^
-#||storeedgefd.dsx.mp.microsoft.com^
-#||storecatalogrevocation.storequality.microsoft.com^
-#||update.microsoft.com^
-#||windowsupdate.com^
-#||windowsupdate.microsoft.com^
-#||wustat.windows.com^
-#||xbox.com^
-#||xboxlive.com^
-#||xboxservices.com^
+||storeedgefd.dsx.mp.microsoft.com^
+||storecatalogrevocation.storequality.microsoft.com^
+||update.microsoft.com^
+||windowsupdate.com^
+||windowsupdate.microsoft.com^
+||wustat.windows.com^
+||xbox.com^
+||xboxlive.com^
+||xboxservices.com^
 
 # ☁️ Almacenamiento / Nube
 
